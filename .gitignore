@@ -1,2 +1,4 @@
 node_modules
-css
+dist
+.parcel-cache
+.DS_Store
