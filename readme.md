@@ -14,4 +14,4 @@ Bootstrap website for a company that creates and customizes office spaces. This 
 - Inner article page
 - Font awesome icons
 
-<img src="./images/screen.png" />
+<img src="src/images/screen.png" />
