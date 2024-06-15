@@ -1,0 +1,20 @@
+{
+  "name": "yavinoffice",
+  "version": "1.0.0",
+  "description": "Yavin Office",
+  "default": "index.html",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --dist-dir ./dist"
+  },
+  "author": "Olga Rozmetova",
+  "license": "MIT",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "bootstrap": "^5.2.3",
+    "parcel": "^2.12.0",
+    "sass": "^1.62.0"
+  }
+}
