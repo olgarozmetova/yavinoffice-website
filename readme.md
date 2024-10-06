@@ -1,6 +1,6 @@
 # Yavin Website
 
-Bootstrap website for a company that creates and customizes office spaces. This website is built with Bootstrap and SCSS. It uses [Font Awesome](https://fontawesome.com/) for icons.
+Bootstrap website for a company that creates and customizes office spaces. This website is built with Bootstrap and Sass. It uses [Font Awesome](https://fontawesome.com/) for icons.
 
 ## Features
 
